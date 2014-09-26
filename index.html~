@@ -12,6 +12,8 @@
 <p>
   <img src = "Taylor_in_Spain.png" alt = "Picture of Taylor eating dinner in Marbella, Spain" />
 </p>
+</div>
+<div class= "center-it">
   <li><a href="bio.html">Bio</a></li>
   <li><a href="resume.html">Resume</a></li>
 </div>
