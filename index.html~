@@ -5,7 +5,7 @@
 <link rel="stylesheet" href ="index.css" type="text/css"/>
 </head>
 <body>
-  <div class="vertical-line"/>
+  <div class="vertical-line">
   <div class="hr">
 
 <h1>taylor m.</h1>
